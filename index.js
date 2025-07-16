@@ -1,4 +1,5 @@
-const BACKEND = 'http://localhost:5000'; // Change to your Render backend URL later
+//const BACKEND = 'http://localhost:5000'; // Change to your Render backend URL later
+const BACKEND = 'https://vpn-k5ej.onrender.com';  // Live backend URL
 
 async function login() {
   const email = document.getElementById('email').value.trim();
