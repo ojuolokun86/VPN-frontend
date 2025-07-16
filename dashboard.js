@@ -1,5 +1,5 @@
 //const BACKEND = 'http://localhost:5000'; // Change to your Render backend URL later
-const BACKEND = 'https://vpn-67qs.onrender.com'; // Live backend URL
+const BACKEND = 'https://vpn-k5ej.onrender.com';  // Live backend URL
 
 if (localStorage.getItem('isLoggedIn') !== 'true') {
   window.location.href = 'index.html';
